@@ -1,5 +1,6 @@
 # Report DevOps1 Linux
  
+Проект номер 1 на ветке DevOps в Школе 21. Основы операционной системы Linux, простые команды и администрирование.
 
 ## Part 1. Installation of the OS
 
